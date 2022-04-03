@@ -30,7 +30,7 @@ In order to use the application, you must first clone the repository to your loc
 
 ## Prerequisites
 
-You will preferably need the latest version of Chrome, and a text editor.
+You will preferably need the latest version of Google Chrome Brower and a text editor.
 
 #### Go here for Chrome: https://www.google.com/chrome/
 
@@ -41,19 +41,19 @@ You will preferably need the latest version of Chrome, and a text editor.
 In your terminal clone the repository to your local machine using git clone:
 
 ```
-git clone git@github.com:dbc257/abr-movie-app.git
+git clone https://github.com/dbc257/abr-movie-app.git
 ```
 
-Move to your newly cloned repo by entering the following in your terminal:
+Move to your newly cloned repository by entering the following in your terminal:
 
 ```
-$ cd abr-movie-app && npm install
+cd abr-movie-app && npm install
 ```
 
-To run the app, type and enter the following in your terminal while still in the project directory:
+To run the app, enter the following in your terminal while still in the project directory:
 
 ```
-$ npm start
+npm start
 ```
 
 The app will run in development mode and should open in your browser at [http://localhost:3000](http://localhost:3000).
@@ -68,4 +68,4 @@ The app will run in development mode and should open in your browser at [http://
 
 ## Contributor
 
-- **David Carlisle**
+**David Carlisle**
